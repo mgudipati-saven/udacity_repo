@@ -6,3 +6,7 @@ git status
 git clone
 git commit
 git push
+
+git checkout
+git pull
+
